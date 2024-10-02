@@ -1,0 +1,2 @@
+# sel-tests
+Selenium tests
